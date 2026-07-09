@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "GooglePermissionControllerSafetyCenterOverlay",
+    name: "GlanceableHubSettingsConfigOverlay2022Zuma",
     product_specific: true,
 }

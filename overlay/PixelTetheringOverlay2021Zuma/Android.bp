@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "PixelNfcOverlayCommon",
-    vendor: true,
+    name: "PixelTetheringOverlay2021Zuma",
+    product_specific: true,
 }

@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "PixelConnectivityOverlay2023",
+    name: "PixelConnectivityOverlay2023Zuma",
     product_specific: true,
 }

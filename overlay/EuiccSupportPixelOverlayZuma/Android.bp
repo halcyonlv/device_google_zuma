@@ -4,6 +4,6 @@
 //
 
 runtime_resource_overlay {
-    name: "EuiccSupportPixelOverlay",
+    name: "EuiccSupportPixelOverlayZuma",
     product_specific: true,
 }
